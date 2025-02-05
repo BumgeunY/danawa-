@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # danawa_cralwer.py
-# sammy310
+# BumgeunY
 
 
 from selenium import webdriver
@@ -25,7 +25,7 @@ from github import Github
 PROCESS_COUNT = 2
 
 GITHUB_TOKEN_KEY = 'MY_GITHUB_TOKEN'
-GITHUB_REPOSITORY_NAME = 'BumgeunY/danawa-'
+GITHUB_REPOSITORY_NAME = 'BumgeunY/Danawa-Crawler'
 
 CRAWLING_DATA_CSV_FILE = 'CrawlingCategory.csv'
 DATA_PATH = 'crawl_data'
