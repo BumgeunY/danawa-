@@ -8,7 +8,7 @@ Actions의 큐 대기시간이 존재해 보통 10시 5~15분에 완료됩니다
 
 
 ## [크롤링 데이터](https://github.com/sammy310/Danawa_Crawler/tree/master/crawl_data)
-- [CPU](https://sammy310.github.io/dev/csv_viewer/csv_viewer.html?category=CPU) / [(데이터 파일)](https://github.com/sammy310/Danawa_Crawler/blob/master/crawl_data/CPU.csv)
+- [CPU](https://sammy310.github.io/dev/csv_viewer/csv_viewer.html?category=TEST) / [(데이터 파일)](https://github.com/BumgeunY/Danawa_Crawler/blob/master/crawl_data/CPU.csv)
 - [그래픽카드](https://sammy310.github.io/dev/csv_viewer/csv_viewer.html?category=VGA) / [(데이터 파일)](https://github.com/sammy310/Danawa_Crawler/blob/master/crawl_data/VGA.csv)
 
 - [마더보드](https://sammy310.github.io/dev/csv_viewer/csv_viewer.html?category=MBoard) / [(데이터 파일)](https://github.com/sammy310/Danawa_Crawler/blob/master/crawl_data/MBoard.csv)
